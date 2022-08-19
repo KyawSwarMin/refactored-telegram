@@ -1,0 +1,8 @@
+Instruction for deploying this site to the server
+-------------------------------------------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum arcu sed purus tincidunt mollis. Aliquam molestie lacinia mi, quis tincidunt nibh feugiat eget.
+Donec congue ullamcorper ligula, ac lobortis diam posuere a. Vivamus ultrices ut arcu vitae malesuada. Fusce eget orci tincidunt dolor mattis eleifend. Duis nec ullamcorper lingula.
+Aenean en nulla ex. Fusce scelerisque turpis facilisis, maximus tellus eu, dignissim sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nisl odio, pulvinar id tellus quis, sollicitudin pulvinar nibh, Nullam nec sodales quam, vel condimentum sapien.
+
+Troubleshooting
+---------------
